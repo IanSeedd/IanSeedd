@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[https://site.com/imagem.gif](https://media1.tenor.com/m/jwFIA8V1_7MAAAAd/mambo-ume-usume.gif)" width="500">
+</p>
+
 # Olá, eu sou o Ian Lamartine 👋
 
 ### Desenvolvedor Web Full Stack especializado em Django
