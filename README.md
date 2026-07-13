@@ -4,7 +4,7 @@
 
 Sou um desenvolvedor web, utilizo **Python** e **Django**. Busco continuar estudando para adquirir mais conhecimentos e competências, atualmente estou caminhando para me tornar um analista de dados.
 <p align="center">
-  <img src="[https://site.com/imagem.gif](https://media1.tenor.com/m/jwFIA8V1_7MAAAAd/mambo-ume-usume.gif)" width="500">
+  <img src="https://site.com/imagem.gif](https://media1.tenor.com/m/jwFIA8V1_7MAAAAd/mambo-ume-usume.gif" width="500">
 </p>
 
 ---
