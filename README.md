@@ -1,4 +1,6 @@
-<img src="https://media1.tenor.com/m/5uTV7-YkCfMAAAAC/uma-musume-brain.gif">
+<p allign="center">
+<img src="https://media1.tenor.com/m/ecU-xcd1SCEAAAAd/meisho-doto-desu.gif">
+</p>
 
 # Olá, eu sou o Ian Lamartine 👋
 
