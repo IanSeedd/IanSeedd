@@ -2,9 +2,7 @@
 
 ### Desenvolvedor Web Full Stack especializado em Django
 
-Sou um desenvolvedor web focado na criação de aplicações web modernas, escaláveis e bem estruturadas utilizando **Python** e **Django**. Busco desenvolver projetos que aliem desempenho, organização de código e uma boa experiência para o usuário.
-
-Tenho experiência no desenvolvimento de sistemas completos, desde a modelagem do banco de dados até a interface do usuário, utilizando tecnologias consolidadas do ecossistema web.
+Sou um desenvolvedor web, utilizo **Python** e **Django**. Busco continuar estudando para adquirir mais conhecimentos e competências, atualmente estou caminhando para me tornar um analista de dados.
 
 ---
 
@@ -35,7 +33,6 @@ Tenho experiência no desenvolvimento de sistemas completos, desde a modelagem d
 - Painéis administrativos
 - Landing Pages
 - Sites Institucionais
-- APIs REST com Django
 - E-commerce
 - Dashboards
 - Automações em Python
@@ -58,14 +55,9 @@ Tenho experiência no desenvolvimento de sistemas completos, desde a modelagem d
 
 ## 🌐 Links
 
+[![Linkedin](https://img.shields.io/badge/GitHub-IanSeedd-181717?style=for-the-badge&logo=likedin)](https://www.linkedin.com/in/ianlamartine/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://ianseedd.github.io/Portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-IanSeedd-181717?style=for-the-badge&logo=github)](https://github.com/IanSeedd)
-
----
-
-## 🎯 Objetivo
-
-Atualmente continuo aprimorando minhas habilidades no desenvolvimento Full Stack com Django, buscando criar aplicações cada vez mais robustas, escaláveis e bem documentadas, sempre seguindo boas práticas de arquitetura e desenvolvimento.
 
 ---
 
