@@ -1,4 +1,4 @@
-<p allign="center">
+<p align="center">
 <img src="https://media1.tenor.com/m/ecU-xcd1SCEAAAAd/meisho-doto-desu.gif">
 </p>
 
