@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://media1.tenor.com/m/ecU-xcd1SCEAAAAd/meisho-doto-desu.gif">
+<img src="https://media.tenor.com/5uTV7-YkCfMAAAAe/uma-musume-brain.png">
 </p>
 
 # Olá, eu sou o Ian Lamartine 👋
